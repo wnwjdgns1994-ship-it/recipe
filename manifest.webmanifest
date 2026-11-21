@@ -1,13 +1,13 @@
 {
   "id": "./",
-  "name": "밀프랩 키친 V8",
+  "name": "밀프랩 키친 V10",
   "short_name": "밀프랩 키친",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#bd3d0e",
+  "background_color": "#f7f6f3",
+  "theme_color": "#f7f6f3",
   "icons": [
     {
       "src": "icon-192.png",
